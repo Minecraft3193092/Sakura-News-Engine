@@ -9,6 +9,6 @@ You need 清松手寫體(Jason Handwriting) font to run better text experience
 TubroWarp で作成したスクラッチ ニュース エンジン
 より良いテキストエクスペリエンスを実行するには、清松の手書き フォントが必要です
 
-## Download Link
+## Download links
 https://github.com/jasonhandwriting/JasonHandwriting
 https://github.com/max32002/JasonHandWritingFonts
